@@ -1,3 +1,5 @@
 # Olivia's Notes
-# this is a h1 header
-### this is a h3 header
+
+## Summary
+
+This repository contains all of the notes by Olivia for the Lighthouse Labs Web Developement Bootcamp!
